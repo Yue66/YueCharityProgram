@@ -1,0 +1,297 @@
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\ApplicationInsights.config
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\roslyn\csc.exe
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\roslyn\csc.exe.config
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\roslyn\csc.rsp
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\roslyn\csi.exe
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\roslyn\csi.rsp
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\roslyn\System.AppContext.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\roslyn\vbc.exe
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\roslyn\vbc.exe.config
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\roslyn\vbc.rsp
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\CharityProjectUI.dll.config
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\CharityProjectUI.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\CharityProjectUI.pdb
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Antlr3.Runtime.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\CharityProject.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\EntityFramework.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.AI.Web.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.Owin.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.Owin.Security.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Newtonsoft.Json.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Owin.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\System.Web.Helpers.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\System.Web.Mvc.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\System.Web.Optimization.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\System.Web.Razor.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\System.Web.WebPages.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\WebGrease.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\CharityProject.pdb
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\CharityProject.dll.config
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\System.Web.Helpers.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\System.Web.Mvc.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\System.Web.Optimization.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\System.Web.Razor.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\System.Web.WebPages.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Antlr3.Runtime.pdb
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Newtonsoft.Json.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\EntityFramework.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.Owin.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.Owin.Security.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\bin\Microsoft.AI.Web.xml
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\obj\Debug\CharityProjectUI.csprojResolveAssemblyReference.cache
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\obj\Debug\CharityProjectUI.dll
+C:\Users\Yue\Documents\Visual Studio 2017\Projects\Kal\CharityProject\CharityProjectUI\obj\Debug\CharityProjectUI.pdb
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\ApplicationInsights.config
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\roslyn\csc.exe
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\roslyn\csc.exe.config
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\roslyn\csc.rsp
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\roslyn\csi.exe
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\roslyn\csi.rsp
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\roslyn\System.AppContext.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\roslyn\vbc.exe
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\roslyn\vbc.exe.config
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\roslyn\vbc.rsp
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\roslyn\VBCSCompiler.exe
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\CharityProjectUI.dll.config
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\CharityProjectUI.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\CharityProjectUI.pdb
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Antlr3.Runtime.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\CharityProject.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\EntityFramework.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\EntityFramework.SqlServer.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AI.Web.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.ApplicationInsights.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Newtonsoft.Json.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Owin.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\System.Web.Helpers.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\System.Web.Mvc.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\System.Web.Optimization.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\System.Web.Razor.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\System.Web.WebPages.Deployment.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\System.Web.WebPages.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\System.Web.WebPages.Razor.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\WebGrease.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\CharityProject.pdb
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\CharityProject.dll.config
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\System.Web.Helpers.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\System.Web.Mvc.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\System.Web.Optimization.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\System.Web.Razor.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\System.Web.WebPages.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\System.Web.WebPages.Deployment.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\System.Web.WebPages.Razor.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Antlr3.Runtime.pdb
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Newtonsoft.Json.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\EntityFramework.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\EntityFramework.SqlServer.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.ApplicationInsights.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AI.Web.xml
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\obj\Debug\CharityProjectUI.csprojResolveAssemblyReference.cache
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\obj\Debug\CharityProjectUI.dll
+C:\Github\YueCharityProject-master\YueCharityProject-master\CharityProjectUI\obj\Debug\CharityProjectUI.pdb
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\ApplicationInsights.config
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\roslyn\csc.exe
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\roslyn\csc.exe.config
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\roslyn\csc.rsp
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\roslyn\csi.exe
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\roslyn\csi.rsp
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\roslyn\System.AppContext.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\roslyn\System.Collections.Immutable.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\roslyn\System.IO.FileSystem.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\roslyn\vbc.exe
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\roslyn\vbc.exe.config
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\roslyn\vbc.rsp
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\roslyn\VBCSCompiler.exe
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\roslyn\VBCSCompiler.exe.config
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\CharityProjectUI.dll.config
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\CharityProjectUI.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\CharityProjectUI.pdb
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Antlr3.Runtime.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\CharityProject.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\EntityFramework.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\EntityFramework.SqlServer.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AI.Web.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AI.WindowsServer.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.ApplicationInsights.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.Google.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Web.Infrastructure.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Newtonsoft.Json.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Owin.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\System.Web.Helpers.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\System.Web.Mvc.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\System.Web.Optimization.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\System.Web.Razor.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\System.Web.WebPages.Deployment.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\System.Web.WebPages.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\System.Web.WebPages.Razor.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\WebGrease.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\CharityProject.pdb
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\CharityProject.dll.config
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\System.Web.Helpers.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\System.Web.Mvc.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\System.Web.Optimization.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\System.Web.Razor.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\System.Web.WebPages.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\System.Web.WebPages.Deployment.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\System.Web.WebPages.Razor.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Antlr3.Runtime.pdb
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Newtonsoft.Json.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\EntityFramework.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\EntityFramework.SqlServer.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.Google.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.ApplicationInsights.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AI.WindowsServer.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\bin\Microsoft.AI.Web.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\obj\Debug\CharityProjectUI.csprojResolveAssemblyReference.cache
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\obj\Debug\CharityProjectUI.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProjectUI\obj\Debug\CharityProjectUI.pdb

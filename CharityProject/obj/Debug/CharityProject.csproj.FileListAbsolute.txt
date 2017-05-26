@@ -1,0 +1,14 @@
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProject\bin\Debug\CharityProject.dll.config
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProject\bin\Debug\CharityProject.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProject\bin\Debug\CharityProject.pdb
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProject\bin\Debug\EntityFramework.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProject\bin\Debug\EntityFramework.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProject\obj\Debug\CharityProject.csprojResolveAssemblyReference.cache
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProject\obj\Debug\CharityProject.Migrations.InitialCreate.resources
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProject\obj\Debug\CharityProject.Migrations.Relationships.resources
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProject\obj\Debug\CharityProject.Migrations.CreateDateAddition.resources
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProject\obj\Debug\CharityProject.csproj.GenerateResource.Cache
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProject\obj\Debug\CharityProject.dll
+C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProject\obj\Debug\CharityProject.pdb
