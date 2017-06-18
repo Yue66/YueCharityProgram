@@ -264,6 +264,7 @@
     <Content Include="Views\CharityPrograms\Delete.cshtml" />
     <Content Include="Views\CharityPrograms\Details.cshtml" />
     <Content Include="Views\CharityPrograms\Donations.cshtml" />
+    <Content Include="Views\CharityPrograms\ProcessDonation.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

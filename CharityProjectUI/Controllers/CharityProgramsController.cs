@@ -20,6 +20,26 @@ namespace CharityProjectUI.Controllers
             return View(Foundation.GetallCharityPrograms());
         }
 
+        public ActionResult ProcessDonation(int? id)
+        {
+            if (id == null)
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+            CharityProgram charityProgram = db.CharityPrograms.Find(id);
+            return View(charityProgram);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult ProcessDonation(FormCollection controls)
+        {
+            var Id = Convert.ToInt32(controls["Id"]);
+            var amount=Convert.ToDecimal(controls["Amount"]);
+            Foundation.ProcessDonation(Id, amount);
+            return RedirectToAction("Index");
+        }
+        
 
         public ActionResult Donations(int?id)
         {

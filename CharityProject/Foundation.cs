@@ -70,7 +70,7 @@ namespace CharityProject
 
         public static List<Donation> GetAllDonationsByCharityProgram (int id)
         {
-           return db.Donations.Where(t => t.Id == id).ToList();
+           return db.Donations.Where(t => t.Id == id).OrderByDescending (t => t.DonationDate ).ToList();
         }
 
         public static CharityProgram GetCharityProgramByID(int id)

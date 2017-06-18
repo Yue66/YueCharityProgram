@@ -6,17 +6,8 @@
 
 <h2>Donations</h2>
 
-<p>
-    @Html.ActionLink("Create New", "Create")
-</p>
 <table class="table">
     <tr>
-        <th>
-            @Html.DisplayNameFor(model => model.CharityProgram.Description)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Description)
-        </th>
         <th>
             @Html.DisplayNameFor(model => model.DonationDate)
         </th>
@@ -29,23 +20,16 @@
 @foreach (var item in Model) {
     <tr>
         <td>
-            @Html.DisplayFor(modelItem => item.CharityProgram.Description)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Description)
-        </td>
-        <td>
             @Html.DisplayFor(modelItem => item.DonationDate)
         </td>
         <td>
             @Html.DisplayFor(modelItem => item.Amount)
         </td>
-        <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.DonationId }) |
-            @Html.ActionLink("Details", "Details", new { id=item.DonationId }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.DonationId })
-        </td>
     </tr>
 }
 
 </table>
+
+<div>
+    @Html.ActionLink("Back to List of Charity Programs", "Index")
+</div>
