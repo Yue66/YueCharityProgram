@@ -22,6 +22,11 @@ namespace CharityProject
 
         public virtual DbSet<CharityProgram > CharityPrograms { get; set; }
         public virtual DbSet<Donation> Donations { get; set; }
+
+        //internal object Entry(object oldCharityProgram)
+        //{
+        //    throw new NotImplementedException();
+        //}
     }
 
     //public class MyEntity

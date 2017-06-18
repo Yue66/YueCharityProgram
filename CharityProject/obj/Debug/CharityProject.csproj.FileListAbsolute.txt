@@ -12,3 +12,17 @@ C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\Ch
 C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProject\obj\Debug\CharityProject.csproj.GenerateResource.Cache
 C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProject\obj\Debug\CharityProject.dll
 C:\新建文件夹\YueCharityProject-master - 副本\YueCharityProject-master\CharityProject\obj\Debug\CharityProject.pdb
+C:\NewGitRepo\CharityProject\bin\Debug\CharityProject.dll.config
+C:\NewGitRepo\CharityProject\bin\Debug\CharityProject.dll
+C:\NewGitRepo\CharityProject\bin\Debug\CharityProject.pdb
+C:\NewGitRepo\CharityProject\bin\Debug\EntityFramework.dll
+C:\NewGitRepo\CharityProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\NewGitRepo\CharityProject\bin\Debug\EntityFramework.xml
+C:\NewGitRepo\CharityProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\NewGitRepo\CharityProject\obj\Debug\CharityProject.csprojResolveAssemblyReference.cache
+C:\NewGitRepo\CharityProject\obj\Debug\CharityProject.Migrations.InitialCreate.resources
+C:\NewGitRepo\CharityProject\obj\Debug\CharityProject.Migrations.Relationships.resources
+C:\NewGitRepo\CharityProject\obj\Debug\CharityProject.Migrations.CreateDateAddition.resources
+C:\NewGitRepo\CharityProject\obj\Debug\CharityProject.csproj.GenerateResource.Cache
+C:\NewGitRepo\CharityProject\obj\Debug\CharityProject.dll
+C:\NewGitRepo\CharityProject\obj\Debug\CharityProject.pdb

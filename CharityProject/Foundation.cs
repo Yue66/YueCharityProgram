@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+
 namespace CharityProject
 {
     public static class Foundation
@@ -60,9 +62,34 @@ namespace CharityProject
             
             return MoneyStillNeeded;
         }
+
+        public static CharityProgram GetCharityProgramByID(int? id)
+        {
+            throw new NotImplementedException();
+        }
+
         public static List<Donation> GetAllDonationsByCharityProgram (int id)
         {
            return db.Donations.Where(t => t.Id == id).ToList();
+        }
+
+        public static CharityProgram GetCharityProgramByID(int id)
+        {
+            return db.CharityPrograms.Find(id); 
+        }
+        public static void EditCharityProgram(CharityProgram charityProgram)
+        {
+            var oldCharityProgram = db.CharityPrograms.Find(charityProgram.Id);
+             db.Entry(oldCharityProgram).State = System.Data.Entity.EntityState.Modified;
+            oldCharityProgram.EmergencyLevel = charityProgram.EmergencyLevel;
+            db.SaveChanges();
+        }
+
+        public static void DeleteCharityProgram(int id)
+        {
+            CharityProgram charityProgram = db.CharityPrograms.Find(id);
+            db.CharityPrograms.Remove(charityProgram);
+            db.SaveChanges();
         }
     }
 }

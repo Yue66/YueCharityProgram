@@ -20,6 +20,18 @@ namespace CharityProjectUI.Controllers
             return View(Foundation.GetallCharityPrograms());
         }
 
+
+        public ActionResult Donations(int?id)
+        {
+
+            if (id == null)
+            {
+                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+            }
+            var donations = Foundation.GetAllDonationsByCharityProgram(id.Value);
+            return View(donations);
+        }
+
         // GET: CharityPrograms/Details/5
         public ActionResult Details(int? id)
         {
@@ -64,7 +76,7 @@ namespace CharityProjectUI.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            CharityProgram charityProgram = db.CharityPrograms.Find(id);
+            CharityProgram charityProgram = Foundation.GetCharityProgramByID(id.Value );
             if (charityProgram == null)
             {
                 return HttpNotFound();
@@ -81,8 +93,7 @@ namespace CharityProjectUI.Controllers
         {
             if (ModelState.IsValid)
             {
-                db.Entry(charityProgram).State = EntityState.Modified;
-                db.SaveChanges();
+                Foundation.EditCharityProgram(charityProgram);
                 return RedirectToAction("Index");
             }
             return View(charityProgram);
@@ -95,7 +106,7 @@ namespace CharityProjectUI.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            CharityProgram charityProgram = db.CharityPrograms.Find(id);
+            CharityProgram charityProgram = Foundation.GetCharityProgramByID(id.Value);
             if (charityProgram == null)
             {
                 return HttpNotFound();
@@ -108,9 +119,7 @@ namespace CharityProjectUI.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult DeleteConfirmed(int id)
         {
-            CharityProgram charityProgram = db.CharityPrograms.Find(id);
-            db.CharityPrograms.Remove(charityProgram);
-            db.SaveChanges();
+            Foundation.DeleteCharityProgram(id);
             return RedirectToAction("Index");
         }
 
